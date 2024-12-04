@@ -1,9 +1,8 @@
 ## Hi there 👋
 # 🙋‍♀️ [@anett-resendiz]()
 
-![Anett Michel Resendiz Ibañez - Programadora Jr.]()
+![Anett Michel Resendiz Ibañez - Programadora Jr.](@anett-resendiz.jpeg)
 
-![GitHub followers](https://github.com/anett-resendiz)
 <li><b>👤 Name:  </b> Anett Michel Resendiz Ibañez </li>
 <li><b>😄 Pronouns: </b>  She </li>
 <li><b>📍 Location:  </b> Puebla </li>
@@ -11,8 +10,8 @@
 
 ## Hola 👋🏻, bienvenido a mi perfil.
 
-Apasionada por la tecnología y el aprendizaje constante, soy estudiante de 8 semestre la Lic.Ciencias de la computacion. Con constante proceso de crecimiento. Me enorgullece mi enfoque autodidacta y mi perseverancia. Mi verdadera pasión va más allá de la codificación: me impulsa la misión de cerrar la brecha de género en la tecnología.
->  Disfruto compartiendo mi conocimiento y acompañando a otras mujeres en su aprendizaje.
+Apasionada por la tecnología y el aprendizaje constante, soy estudiante de 8 semestre la Lic. Ciencias de la computacion. Con constante proceso de crecimiento. Me enorgullece mi enfoque autodidacta y mi perseverancia. Mi verdadera pasión va más allá de la codificación: me impulsa la misión de cerrar la brecha de género en la tecnología.
+>  Disfruto esta carrera ya que la tecnologia es lo de hoy en dia .
 <!--
 ### 👨🏻‍🚀 Habilidades
 
